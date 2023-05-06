@@ -1,0 +1,11 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@keyv/redis": "^2.5.7",
+    "express": "^4.18.2",
+    "keyv": "^4.5.2"
+  }
+}
